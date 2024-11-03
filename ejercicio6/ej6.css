@@ -1,0 +1,13 @@
+body {
+  padding: 20px;
+}
+
+.hidden {
+  /* vuestro CSS aquí */
+  display: none;
+}
+
+.visible {
+  /* vuestro CSS aquí */
+  display: block;
+}

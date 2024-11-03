@@ -1,0 +1,24 @@
+html {
+    height: 100%;
+}
+
+body {
+    background-image: url('fondo.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+/* Estilos para el gato */
+
+#myCat {
+  position: absolute;
+  left: 0;
+  top: 60%;
+  transform: translateY(-50%);
+  transition: transform 0.1s;
+}
+body {
+  transition: background-color 1s;
+  margin: 0;
+  overflow: hidden;
+}

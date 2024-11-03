@@ -1,0 +1,8 @@
+body {
+    padding: 20px;
+  }
+  .boton-atras {
+    position: absolute;
+    top: 360px;
+    left: 20px;
+  }
